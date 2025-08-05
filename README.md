@@ -78,7 +78,6 @@ Connect-ToGraph
 Show-ConnectionInfo
 ```
 
-![Connection Setup](screenshots/connection-setup.png)
 
 ## Usage
 
