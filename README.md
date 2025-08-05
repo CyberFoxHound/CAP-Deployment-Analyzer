@@ -2,10 +2,6 @@
 ```markdown
 # CAP Analyzer - Conditional Access Policy Analysis Tool
 
-![GitHub license](https://img.shields.io/github/license/yourusername/CAP-Analyzer)
-![GitHub release](https://img.shields.io/github/v/release/yourusername/CAP-Analyzer)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)
-
 A comprehensive PowerShell tool for analyzing Microsoft Entra ID (Azure AD) Conditional Access Policies (CAPs) to assess their readiness for enforcement.
 
 ## Features
